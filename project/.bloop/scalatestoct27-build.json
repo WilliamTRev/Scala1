@@ -1,16 +1,16 @@
 {
     "version": "1.4.0",
     "project": {
-        "name": "scalajdbceasy-build",
-        "directory": "C:\\Users\\William Terry\\Desktop\\BigDataOctober2021\\ScalaJDBCEasy\\project",
-        "workspaceDir": "C:\\Users\\William Terry\\Desktop\\BigDataOctober2021\\ScalaJDBCEasy\\project",
+        "name": "scalatestoct27-build",
+        "directory": "C:\\Users\\William Terry\\Desktop\\ScalaTestOct27\\project",
+        "workspaceDir": "C:\\Users\\William Terry\\Desktop\\ScalaTestOct27\\project",
         "sources": [
-            "C:\\Users\\William Terry\\Desktop\\BigDataOctober2021\\ScalaJDBCEasy\\project\\src\\main\\scala",
-            "C:\\Users\\William Terry\\Desktop\\BigDataOctober2021\\ScalaJDBCEasy\\project\\src\\main\\scala-2.12",
-            "C:\\Users\\William Terry\\Desktop\\BigDataOctober2021\\ScalaJDBCEasy\\project\\src\\main\\scala-2",
-            "C:\\Users\\William Terry\\Desktop\\BigDataOctober2021\\ScalaJDBCEasy\\project\\src\\main\\java",
-            "C:\\Users\\William Terry\\Desktop\\BigDataOctober2021\\ScalaJDBCEasy\\project\\src\\main\\scala-sbt-1.0",
-            "C:\\Users\\William Terry\\Desktop\\BigDataOctober2021\\ScalaJDBCEasy\\project\\target\\scala-2.12\\sbt-1.0\\src_managed\\main"
+            "C:\\Users\\William Terry\\Desktop\\ScalaTestOct27\\project\\src\\main\\scala",
+            "C:\\Users\\William Terry\\Desktop\\ScalaTestOct27\\project\\src\\main\\scala-2.12",
+            "C:\\Users\\William Terry\\Desktop\\ScalaTestOct27\\project\\src\\main\\scala-2",
+            "C:\\Users\\William Terry\\Desktop\\ScalaTestOct27\\project\\src\\main\\java",
+            "C:\\Users\\William Terry\\Desktop\\ScalaTestOct27\\project\\src\\main\\scala-sbt-1.0",
+            "C:\\Users\\William Terry\\Desktop\\ScalaTestOct27\\project\\target\\scala-2.12\\sbt-1.0\\src_managed\\main"
         ],
         "dependencies": [
             
@@ -105,11 +105,11 @@
             "C:\\Users\\William Terry\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\squareup\\okio\\okio\\1.17.2\\okio-1.17.2.jar",
             "C:\\Users\\William Terry\\AppData\\Local\\Coursier\\Cache\\v1\\https\\repo1.maven.org\\maven2\\com\\typesafe\\config\\1.3.3\\config-1.3.3.jar"
         ],
-        "out": "C:\\Users\\William Terry\\Desktop\\BigDataOctober2021\\ScalaJDBCEasy\\project\\.bloop\\scalajdbceasy-build",
-        "classesDir": "C:\\Users\\William Terry\\Desktop\\BigDataOctober2021\\ScalaJDBCEasy\\project\\.bloop\\scalajdbceasy-build\\scala-2.12\\sbt-1.0\\classes",
+        "out": "C:\\Users\\William Terry\\Desktop\\ScalaTestOct27\\project\\.bloop\\scalatestoct27-build",
+        "classesDir": "C:\\Users\\William Terry\\Desktop\\ScalaTestOct27\\project\\.bloop\\scalatestoct27-build\\scala-2.12\\sbt-1.0\\classes",
         "resources": [
-            "C:\\Users\\William Terry\\Desktop\\BigDataOctober2021\\ScalaJDBCEasy\\project\\src\\main\\resources",
-            "C:\\Users\\William Terry\\Desktop\\BigDataOctober2021\\ScalaJDBCEasy\\project\\target\\scala-2.12\\sbt-1.0\\resource_managed\\main"
+            "C:\\Users\\William Terry\\Desktop\\ScalaTestOct27\\project\\src\\main\\resources",
+            "C:\\Users\\William Terry\\Desktop\\ScalaTestOct27\\project\\target\\scala-2.12\\sbt-1.0\\resource_managed\\main"
         ],
         "scala": {
             "organization": "org.scala-lang",
@@ -126,7 +126,7 @@
                 "C:\\Users\\William Terry\\.sbt\\boot\\scala-2.12.14\\lib\\scala-reflect.jar",
                 "C:\\Users\\William Terry\\.sbt\\boot\\scala-2.12.14\\lib\\scala-xml_2.12-1.0.6.jar"
             ],
-            "analysis": "C:\\Users\\William Terry\\Desktop\\BigDataOctober2021\\ScalaJDBCEasy\\project\\target\\streams\\compile\\bloopAnalysisOut\\_global\\streams\\inc_compile_2.12.zip",
+            "analysis": "C:\\Users\\William Terry\\Desktop\\ScalaTestOct27\\project\\target\\streams\\compile\\bloopAnalysisOut\\_global\\streams\\inc_compile_2.12.zip",
             "setup": {
                 "order": "mixed",
                 "addLibraryToBootClasspath": true,
@@ -201,7 +201,7 @@
             "config": {
                 "home": "C:\\Program Files\\Java\\jdk1.8.0_301\\jre",
                 "options": [
-                    "-Duser.dir=C:\\Users\\William Terry\\Desktop\\BigDataOctober2021\\ScalaJDBCEasy\\project"
+                    "-Duser.dir=C:\\Users\\William Terry\\Desktop\\ScalaTestOct27\\project"
                 ]
             },
             "mainClass": [
